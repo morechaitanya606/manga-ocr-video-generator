@@ -1,5 +1,4 @@
-# manga-ocr-video-generator
-This is first code 
+# manga-ocr-video-generator This is first edition
 # AI Manga Recap Generator
 
 An advanced Python script that automatically converts manga PDFs into engaging Hindi vidLooks like something went wrong!
